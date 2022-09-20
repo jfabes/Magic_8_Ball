@@ -1,0 +1,29 @@
+name: magic_8_ball
+description: A new Flutter application.
+
+version: 1.0.0+1
+
+analyzer:
+  enable-experiment:
+    - non-nullable
+
+environment:
+  sdk: ">=2.13.0-68.0.dev <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^0.1.2
+  google_fonts: ^3.0.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - images/
