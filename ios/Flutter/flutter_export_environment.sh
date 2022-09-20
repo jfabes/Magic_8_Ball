@@ -1,9 +1,9 @@
 #!/bin/sh
 # This is a generated file; do not edit or check into version control.
 export "FLUTTER_ROOT=/Users/jules/Developer/flutter"
-export "FLUTTER_APPLICATION_PATH=/Users/jules/AndroidStudioProjects/magic-8-ball-flutter"
+export "FLUTTER_APPLICATION_PATH=/Users/jules/AndroidStudioProjects/magic8ball"
 export "COCOAPODS_PARALLEL_CODE_SIGN=true"
-export "FLUTTER_TARGET=/Users/jules/AndroidStudioProjects/magic-8-ball-flutter/lib/main.dart"
+export "FLUTTER_TARGET=/Users/jules/AndroidStudioProjects/magic8ball/lib/main.dart"
 export "FLUTTER_BUILD_DIR=build"
 export "FLUTTER_BUILD_NAME=1.0.0"
 export "FLUTTER_BUILD_NUMBER=1"
@@ -11,4 +11,4 @@ export "DART_DEFINES=Zmx1dHRlci5pbnNwZWN0b3Iuc3RydWN0dXJlZEVycm9ycz10cnVl,RkxVVF
 export "DART_OBFUSCATION=false"
 export "TRACK_WIDGET_CREATION=true"
 export "TREE_SHAKE_ICONS=false"
-export "PACKAGE_CONFIG=/Users/jules/AndroidStudioProjects/magic-8-ball-flutter/.dart_tool/package_config.json"
+export "PACKAGE_CONFIG=/Users/jules/AndroidStudioProjects/magic8ball/.dart_tool/package_config.json"
